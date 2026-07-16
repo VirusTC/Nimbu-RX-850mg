@@ -1,7 +1,7 @@
 # Nimbu-RX-850mg — Institutional Monograph Integration & Open-Science Clinical Framework
 
 **Product Classification:** Standardized Plant-Based Citric Acid Matrix Validation Profile
-**Target Molecular Pathway:** USP/NF Monograph Track, Systemic Alkalization, Hypocitraturia Countermeasures, & Oncology Supportive Care
+**Target Molecular Pathway:** Systemic Alkalization, Hypocitraturia Countermeasures, & Oncology Supportive Care
 **Regulatory Blueprint:** Mapped to FDA Direct Food Ingredient Standards (21 CFR 184.1033) & USP Monograph Purity Baselines
 
 ---
