@@ -1,5 +1,5 @@
 Revenue_ID	Billing_Code_Type	Code_Reference	Institutional_Department_Allocation	Unit_Cost_Basis_USD	Pharmacy_Dispensing_Margin
-REV-850-101	HCPCS_Level_II	S5190 (U2 Modifier)	Oncology Outpatient Pharmacy	125.00	Standard Hospital Tier A
-REV-850-102	Revenue_Code	0250 (Pharmacy)	Nephrology Dialysis Clinic Unit	125.00	Standard Hospital Tier A
-REV-850-103	CPT_Pathology	81003 (Urinary Metrics)	Clinical Pathology Laboratory Line	35.00	Diagnostic Allocation Only
-REV-850-104	Telehealth_Modifier	99212 (GT Modifier)	Remote Video Consultation Hub	75.00	Physician Clinical Time Allocation
+REV-850-101	HCPCS_Level_II	S5190 (U2 Modifier)	Oncology Outpatient Pharmacy	675.00	Standard Hospital Tier A
+REV-850-102	Revenue_Code	0250 (Pharmacy)	Nephrology Dialysis Clinic Unit	305.00	Standard Hospital Tier A
+REV-850-103	CPT_Pathology	81003 (Urinary Metrics)	Clinical Pathology Laboratory Line	655.00	Diagnostic Allocation Only
+REV-850-104	Telehealth_Modifier	99212 (GT Modifier)	Remote Video Consultation Hub	308.00	Physician Clinical Time Allocation
