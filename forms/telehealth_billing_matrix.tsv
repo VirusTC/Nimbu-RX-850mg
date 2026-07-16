@@ -1,0 +1,4 @@
+Procedure_Code	Payer_Modifier	Revenue_Code	Clinical_Service_Description	Base_Charge_USD	Validation_Source
+99212	GT	0519	Brief Remote Telehealth Triage & Compliance Check	675.00	CMS Local MAC Index
+S5190	U2	0250	Nimbu-RX-850mg Hospital Flagship Matrix Supply	$3,006.01	FDA National Drug Index
+81003	None	0300	Automated Urinary pH Saturation Metrics Logging	655.00	CPT Pathology Standard
