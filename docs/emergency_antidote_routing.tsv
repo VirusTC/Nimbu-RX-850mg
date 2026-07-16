@@ -1,0 +1,4 @@
+Exposure_ID	Route_of_Contact	Immediate_Clinical_Action	Antidote_Neutralizer	Thermodynamic_Mechanism	Target_Monitoring_Window
+EMER-01	Oral_Mucosal_Ulcer	Immediate suspension of dose; flush mouth with 200mL plain water	0.9% Sodium Chloride / Water Rinse	Dilution and displacement of localized hydronium ions (H3O+)	15-30 Minutes post-flush
+EMER-02	Ocular_Splash	Flush open eye immediately with sterile saline for 15 minutes	Sterile Isotonic Saline Solution	Rapid pH restoration to baseline tear film range (7.35-7.45)	60 Minutes with visual acuity check
+EMER-03	Gastric_Hyperacidity	Administer non-mineral antacid suspension	Aluminum/Magnesium Hydroxide	Chemical neutralization of excess free organic citric acid	2 Hours for gastric lumen stabilization
