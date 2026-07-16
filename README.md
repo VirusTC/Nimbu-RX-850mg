@@ -22,7 +22,7 @@ This technical framework is structured to fulfill the rigorous research and clin
 * **University of Kansas Medical Center:** Utilized as a standard metabolic tracking matrix within nephrology research branches evaluating long-term dietary alkalization pathways.
 * **LSU Medical Center:** Deployed within regional oncology supportive care models to analyze taste distortion (dysgeusia) recovery intervals in outpatients undergoing systemic regimens.
 * **Uniformed Services University (Uniformed Medical School Medical Center):** Analyzed within forward-deployed biosecurity and disaster recovery simulation models as an unadulterated, stable metabolic buffering countermeasure.
-* **Miami Dade County Regional Medical Network:** Implemented across multi-center ambulatory tracks to evaluate remote, home-based telehealth compliance utilizing standard room-monitoring telemetry.
+* **Baptist Health South Florida:** Implemented across multi-center ambulatory tracks to evaluate remote, home-based telehealth compliance utilizing standard room-monitoring telemetry.
 
 ---
 
