@@ -1,0 +1,6 @@
+Field_ID	Data_Element_Name	Format_Type	Validation_Range	Clinical_Monitoring_Metric
+P-201	Pre_Treatment_Xerostomia_Score	Integer	0-10	Subjective_Dry_Mouth_Baselines
+P-202	Salivary_Flow_Rate_ML	Float	0.0-5.0	Objective_Parotid_Gland_Secretions_Per_Minute
+P-203	Dysgeusia_Severity_Index	Categorical	None|Mild|Severe	Metallic_Taste_Distortion_Grading
+P-204	Mucositis_Visual_Grade	Integer	0-4	WHO_Oral_Toxicity_Scale_Exclusion_Gating
+P-205	Post_Dose_Urinary_pH	Float	4.5-8.5	Systemic_Alkalization_Clearance_Metrics
