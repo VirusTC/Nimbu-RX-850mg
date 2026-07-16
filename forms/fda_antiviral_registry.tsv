@@ -1,0 +1,6 @@
+Field_ID	Data_Element_Name	Format_Type	Validation_Range_or_Units	Clinical_Monitoring_Metric
+P-VIR-501	Estimated_GFR	Float	0.0 - 150.0 mL/min	Renal Function Gating for Dosage Reductions
+P-VIR-502	Hepatic_Enzyme_ALT	Integer	0 - 500 U/L	Liver Function Screening for Ritonavir Tolerance
+P-VIR-503	Viral_Load_Titer	Integer	0 - 10000000 copies/mL	Quantitative Viral RNA Baseline and Clearance Tracking
+P-VIR-504	Concomitant_Medications	String	Alpha-Numeric List	CYP3A4 Drug Interaction Exclusion Protocol
+P-VIR-505	Therapeutic_Adherence_Log	Boolean	True | False	Patient Compliance Verification with Dosing Schedule
