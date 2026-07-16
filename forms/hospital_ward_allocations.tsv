@@ -1,0 +1,5 @@
+Ward_ID	Department_Name	Dispensing_Device	Default_Stock_Level	Emergency_Restock_Threshold	Primary_Clinical_Indication
+WD-901	Oncology Outpatient Clinic	Omnicell Cabinet A	200 Units	25 Units	Chemotherapy-Induced Dysgeusia / Xerostomia
+WD-902	Radiation Therapy Unit	Satellite Lockbox B	150 Units	15 Units	Radiation-Induced Oral Xerostomia
+WD-903	Nephrology Dialysis Floor	Central Core Cart 3	100 Units	10 Units	Metabolic Acidosis Buffer Integration
+WD-904	Clinical Pathology Lab	Storage Bay Gamma	50 Units	5 Units	Extracorporeal Blood Tube Anticoagulation
