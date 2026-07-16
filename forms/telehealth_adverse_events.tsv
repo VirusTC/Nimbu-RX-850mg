@@ -1,0 +1,5 @@
+Event_ID	Symptom_Classification	Adverse_Grading_Scale	Clinical_Action_Trigger	Reporting_Requirement	Data_Field_Validation
+AE-801	Oral Burning / Stinging	Grade 1 (Mild) to 4 (Severe)	Immediate halt if Grade >= 2	Log in institutional EHR within 24h	Integer (1-4)
+AE-802	Gastric Pyrosis (Heartburn)	Mild | Moderate | Severe	Reduce concentration; split daily doses	Log at standard 7-day review	Categorical
+AE-803	Dental Enamel Sensitivity	Present | Absent	Enforce strict 5-minute water rinse step	Log at standard 14-day review	Boolean
+AE-804	Serum Potassium Imbalance	Hyperkalemia | Hypokalemia	Adjust baseline metabolic inputs	Immediate physician routing	Serum_mEq_L (Float)
