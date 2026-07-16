@@ -1,0 +1,6 @@
+Analyte_ID	Target_Compound	Analytical_Method	Acceptable_Limit	Observed_Baseline_Metric	Pass_Fail_Status
+AN-701	Free Citric Acid Equivalent	HPLC-UV Assaying	840.0mg - 860.0mg	850.2mg	PASS
+AN-702	Calcium Sulfate (Gypsum)	X-Ray Diffraction	0.00% (Absolute Zero)	0.00% (Not Detected)	PASS
+AN-703	Residual Sulfuric Acid	Ion Chromatography	0.00% (Absolute Zero)	0.00% (Not Detected)	PASS
+AN-704	Native Bioflavonoids	Mass Spectrometry	Verify Matrix Envelope	Hesperidin/Eriocitrin Present	PASS
+AN-705	Moisture Content	Loss on Drying (Vacuum)	<= 2.50%	1.85%	PASS
