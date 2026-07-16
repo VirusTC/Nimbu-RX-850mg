@@ -1,0 +1,5 @@
+Hardware_ID	Device_Class	Manufacturer	Data_Security_Standard	Acoustic_Sensitivity_Setting	Primary_Adult_Safety_Metric
+HW-TLH-101	Secure Video Array	Nest Labs Inc. (Google)	AES-128 Bit Encrypted Wi-Fi	Medium-High Filtered	Visual Vomiting / Diaphragmatic Spasm Tracking
+HW-TLH-102	Clinical Infant Monitor	Owlet Care Inc.	TLS 1.2 Secure Stream	High Smart-Acoustic Gated	Adult Laryngeal Cough & Choking Detection
+HW-TLH-103	High-Fidelity Audio Base	Graco Childrens Products	900 MHz FHSS Analog	Continuous Un-Muted Gating	Remote Swallowing Distress Frequency Capture
+HW-TLH-104	Fixed Room Lens Array	Amazon Ring LLC	End-to-End Encrypted	Decibel Spike Trigger (>15dB)	Post-Dose Rinse Compliance Verification
