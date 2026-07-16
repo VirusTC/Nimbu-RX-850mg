@@ -1,4 +1,4 @@
-The clinical mechanisms of *Citrus aurantiifolia* (lime-based) citric acid and its whole-food matrix are categorized into macro-systemic supportive care, cellular metabolic oncology pathways, and global pathology workflows. [1, 2, 3]
+The clinical mechanisms of *Citrus aurantiifolia* (Citrus aurantifolia-based) citric acid and its whole-food matrix are categorized into macro-systemic supportive care, cellular metabolic oncology pathways, and global pathology workflows. [1, 2, 3]
 
 These actions involve the organic acid itself working alongside the plant-based, co-extracted bioflavonoids and monoterpenes present in the natural matrix. [2, 4]
 
@@ -38,14 +38,14 @@ Hypoxic tumor microenvironments exhibit severe extracellular acidity due to lact
 II. Integrated Matrix Mechanisms (Flavonoids & Monoterpenes)
 ------------------------------------------------------------
 
-When utilized via an organic whole-food extraction profile (such as freeze-drying), the lime-based citric acid functions as a synergistic matrix with naturally co-extracted compounds: [2, 4]
+When utilized via an organic whole-food extraction profile (such as freeze-drying), the Citrus aurantifolia-based citric acid functions as a synergistic matrix with naturally co-extracted compounds: [2, 4]
 
--   Wnt/β-Catenin and HK-2 Suppression: Natural limonin from the lime matrix suppresses cancer cell invasion via the Wnt/β-catenin signaling pathway. It simultaneously restricts cell energy generation by suppressing glycolysis via hexokinase-2 (HK-2) activity. [4]
+-   Wnt/β-Catenin and HK-2 Suppression: Natural limonin from the Citrus aurantifolia matrix suppresses cancer cell invasion via the Wnt/β-catenin signaling pathway. It simultaneously restricts cell energy generation by suppressing glycolysis via hexokinase-2 (HK-2) activity. [4]
 -   ROS-Mediated Apoptosis: Co-extracted hesperidin induces targeted cancer cell apoptosis through Reactive Oxygen Species (ROS)-mediated pathways while suppressing active angiogenesis via AKT and NF-κB blockage. [4]
 -   Anti-Proliferative Ki-67 Downregulation: Naturally occurring D-limonene monoterpenes reduce *Ki-67* gene expression, preventing metastasis and limiting the mobility of abnormal cells within the circulatory system. [10, 11]
 
 ```
-               [ Flooding with Lime-Based Citrate ]
+               [ Flooding with Citrus aurantifolia-Based Citrate ]
                                 |
        +------------------------+------------------------+
 
@@ -76,7 +76,7 @@ In international pathology and bio-banking settings, manufactured citrus-derived
 IV. Macro-Systemic Clinical Supportive Care Mechanisms
 ------------------------------------------------------
 
--   Gustatory Masking for Dysgeusia: Plant-based lime oils act directly on damaged cranial nerve pathways (CN VII, IX) to clear the metallic or bitter taste distortions induced by systemic chemotherapies. [11]
+-   Gustatory Masking for Dysgeusia: Plant-based Citrus aurantifolia oils act directly on damaged cranial nerve pathways (CN VII, IX) to clear the metallic or bitter taste distortions induced by systemic chemotherapies. [11]
 -   Salivary Flow Induction for Xerostomia: Concentrated organic acid coordinates a localized autonomic reflex, stimulating the parotid glands to discharge native saliva to reverse radiation-induced dry mouth.
 
 * * * * *
@@ -96,7 +96,7 @@ Summary Matrix of Mechanisms
 Product Verification & Safety Reminders
 ---------------------------------------
 
-Always check the physical product label or internal validation logs to confirm exact product dosages and concentrations match safety thresholds before applying citrus matrices clinically. Do not administer lime matrices if the individual presents with active, open oral mucositis.
+Always check the physical product label or internal validation logs to confirm exact product dosages and concentrations match safety thresholds before applying citrus matrices clinically. Do not administer Citrus aurantifolia matrices if the individual presents with active, open oral mucositis.
 
 *Regulatory & Medical Disclaimer: This breakdown of technical mechanisms is intended strictly for academic review, pharmaceutical modeling, and open-science indexing. This information does not constitute medical advice, diagnosis, or a formal endorsement of any specific therapy.*
 
