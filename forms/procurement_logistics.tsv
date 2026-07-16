@@ -1,0 +1,4 @@
+Item_ID	Hospital_SKU	Storage_Zone	Minimum_Par_Level	Unit_Package_Format	Handling_Constraint
+LOG-850-01	NIMBU-RX-HOSP1	Cold-Chain-A	500 Units	Standardized 850mg Sachet	Desiccant-Required_Keep_Dry
+LOG-850-02	NIMBU-RX-CLIN2	Ambulatory-B	200 Units	Multi-Dose Hospital Bottle	Store_Below_25C_Away_From_Light
+LOG-850-03	NIMBU-RX-DISP3	Sat-Pharmacy-3	100 Units	Unit-Dose Blister Matrix	Moisture_Barrier_Seal_Verify
