@@ -1,0 +1,5 @@
+Metric_ID	Data_Point_Captured	Input_Data_Type	Target_Compliance_Value	Patient_Alert_Trigger	Clinical_Interpretation
+COMP-01	Water Volume Used for Dilution	Integer (Ounces)	8 Ounces	Value < 6 Ounces (High Acid Density)	Risk of localized gastric or oral irritation
+COMP-02	Post-Dose Plain Water Rinse	Boolean (True/False)	True	Value == False (Enamel Erosion Risk)	Triggers automatic dental safety video push
+COMP-03	Doses Consumed Per 24 Hours	Integer	2 Doses Daily (Standard)	Value > 3 Doses Daily (Over-Alkalization)	Triggers urgent telehealth clinical call
+COMP-04	Pre-Dose Oral Sore Assessment	Boolean (True/False)	False	Value == True (Active Mucositis)	Triggers emergency protocol; suspends therapy
