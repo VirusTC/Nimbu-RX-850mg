@@ -1,0 +1,6 @@
+Field_ID	Data_Element_Name	Format_Type	Validation_Range	Clinical_Target_Metric
+F-MD-301	Baseline_Serum_Potassium	Float	3.5 - 5.5 mEq/L	Exclusion Criteria for Hidden Intracellular Acidosis
+F-MD-302	Target_Urinary_pH_Goal	Float	6.2 - 7.2	Therapeutic Threshold for Dissolving Uric Acid Urate
+F-MD-303	Mucositis_Visual_Grade	Integer	0 - 4	Safety Exclusion Gating (Must be Grade 0-1)
+F-MD-304	Daily_Fluid_Intake_ML	Integer	1000 - 5000 mL	Hydration Matrix Capacity Tracking
+F-MD-305	Physical_Label_Confirmed	Boolean	True | False	Mandatory Step to Double-Check Label Before Entry
